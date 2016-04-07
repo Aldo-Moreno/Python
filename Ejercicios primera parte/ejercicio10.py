@@ -1,3 +1,4 @@
+#Tomar una lista y devolver un histograma de asteriscos.
 n = []
 
 print "Ingrese 5 numeros."
