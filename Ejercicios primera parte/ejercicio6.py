@@ -1,3 +1,4 @@
+#Tomar una cadena y devolver la misma inversamente.
 palabra = raw_input("Ingresa una palabra o frase: ")
 def inv():
     volt = list(palabra)
