@@ -1,3 +1,4 @@
+#Tomar dos listas y devolver si tienen elementos repetidos, en caso de lo contrario devolover que no.
 L1 = []
 L2 = []
 print "Escriba las palabras para llenar la primer lista."
