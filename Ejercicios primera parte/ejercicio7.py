@@ -1,3 +1,4 @@
+#Tomar una cadena y devolver si es palindroma o no lo es.
 word = raw_input("Ingrese palabra o frase: ")
 m = word.lower()
 se = m.replace(" ","")
