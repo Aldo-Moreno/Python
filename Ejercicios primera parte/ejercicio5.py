@@ -1,3 +1,4 @@
+#Una lista que suma y multiplica respectivamente sus valores numericos.
 numbers = [1,2,3,4]
 def suma():
     plus = 0
