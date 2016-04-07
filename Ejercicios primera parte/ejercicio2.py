@@ -1,3 +1,4 @@
+#Mayor de tres numeros.
 n1 = int(input("Ingrese primer numero: "))
 n2 = int(input("Ingrese segundo numero: "))
 n3 = int(input("Ingrese tercer numero: "))
