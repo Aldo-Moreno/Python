@@ -1,3 +1,4 @@
+#Tomar un caracter y devolver True si es vocal o False en caso de lo contrario.
 letra = input("Ingrese letra: ")
 
 def vocal():
