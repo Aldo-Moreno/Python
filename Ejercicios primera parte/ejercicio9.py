@@ -1,10 +1,8 @@
+#Tomar un caracter y multiplicarlo por n veces.
 elem = raw_input("Ingresa un elemento: ")
 num  = int(raw_input("Ingresa un caracter numerico: "))
 
-def op():
-    print elem * num
-
-op()
+print elem * num
 
 
 
