@@ -1,3 +1,4 @@
+#Tomar una lista de palabras y un entero n, devolver los elementos con mas de n caracteres.
 cantidad = int(raw_input("Cantidad de palabras: "))
 numero   = int(raw_input("Numero: "))
 lista    = []
