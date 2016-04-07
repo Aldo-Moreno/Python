@@ -1,3 +1,4 @@
+#Mayor de dos numeros.
 x = float(input("Ingrese numero: "))
 y = float(input("Ingrese segundo numero"))
 def max():
