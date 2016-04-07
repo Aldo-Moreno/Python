@@ -1,3 +1,4 @@
+#Tomar una lista de numeros y devolver el mas grande.
 canti = int(raw_input("Cantidad de numeros: "))
 numeros = []
 
