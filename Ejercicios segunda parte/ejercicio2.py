@@ -1,3 +1,4 @@
+#Tomar una lista de palabras y devolver la mas larga.
 canti  = int(raw_input("Cantidad de palabras: "))
 lista  = []
 ml     = ""
